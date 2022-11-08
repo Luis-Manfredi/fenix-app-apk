@@ -6,4 +6,8 @@ You need to create an account and verifiy your email to continue with the applic
 It is in spanish only at the moment.
 
 ## Instructions:
-Donwload the apk file and install it on your android smartphone.
+- Download the zip file. 
+- Extract the content of the zip file.
+- Transfer the apk file to your android smartphone.
+- Enable Install Unknow Apps option under Privacy/Settings.
+- Install the apk by tapping the app icon.
